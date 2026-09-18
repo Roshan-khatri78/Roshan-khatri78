@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rudra (Roshan) Khatri
 
-🎓 Final-year BEICE @ IOE Purwanchal Campus, Tribhuvan University  
+🎓  BEICE Grauated from IOE Purwanchal Engineering Campus, Tribhuvan University  
 ⚡ PCB Design Engineer | Embedded Systems | Robotics  
 🔧 Building multi-layer PCBs in KiCad — schematic to 3D render  
 🤖 Executive Member @ IOE Purwanchal Robotics Club (4 years)  
